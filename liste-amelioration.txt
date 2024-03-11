@@ -1,13 +1,5 @@
 Balise sémantique non respectée (header, nav).
 
-Réduire la taille des images
-
-Donner des tailles aux images
-
-ajouter un titre à la page
-
-ajouté les labels au formulaire
-
 ajouté une description aux liens (aria-label="")
 
 améliorer le contraste 
@@ -17,9 +9,6 @@ améliorer le contraste
 	border-radius:0 ;
 }
 
-ajouter la lang à html
-
-refaire l'organisation des h1 à h6
 
 Mimify JS/HTML/CSS
 
