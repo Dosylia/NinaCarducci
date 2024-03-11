@@ -4,8 +4,6 @@ Réduire la taille des images
 
 Donner des tailles aux images
 
-Attribut alt aux images
-
 ajouter un titre à la page
 
 ajouté les labels au formulaire
@@ -23,5 +21,7 @@ ajouter la lang à html
 
 refaire l'organisation des h1 à h6
 
+Mimify JS/HTML/CSS
 
+check perf 1: 74
 
