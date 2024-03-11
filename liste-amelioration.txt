@@ -23,5 +23,4 @@ refaire l'organisation des h1 à h6
 
 Mimify JS/HTML/CSS
 
-check perf 1: 74
 
