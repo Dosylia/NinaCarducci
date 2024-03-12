@@ -1,0 +1,32 @@
+/*
+Cache-Control: public, max-age=3600
+
+/*.css
+Cache-Control: public, max-age=31536000
+
+/*.js
+Cache-Control: public, max-age=31536000
+
+/*.webp
+Cache-Control: public, max-age=31536000
+
+/*.png
+Cache-Control: public, max-age=31536000
+
+/*.jpg
+Cache-Control: public, max-age=31536000
+
+/*.jpeg
+Cache-Control: public, max-age=31536000
+
+/*.gif
+Cache-Control: public, max-age=31536000
+
+/path/to/fonts/*.woff
+Cache-Control: public, max-age=604800
+
+/path/to/fonts/*.woff2
+Cache-Control: public, max-age=604800
+
+/path/to/fonts/*.ttf
+Cache-Control: public, max-age=604800
