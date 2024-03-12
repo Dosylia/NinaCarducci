@@ -8,3 +8,4 @@ Projet d'optimisation d'un site web pour les performances mais aussi le SEO. Le 
 Ce projet est à base de JS et HTML.
 
 ## Lien hébergement git hub
+https://dosylia.github.io/NinaCarducci/
