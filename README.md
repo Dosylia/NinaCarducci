@@ -1,6 +1,6 @@
 # Nina Carducci
 
-![Nina Carducci](./images/nina-carducci-1.png)
+![Nina Carducci](./assets/images/nina-carducci-1.png)
 
 ## What this project is for?
 School project 3 for my training as full-stack web developper with OpenClassrooms.
