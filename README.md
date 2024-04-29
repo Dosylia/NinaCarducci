@@ -1,11 +1,19 @@
-# Nom du projet
-Nina Carducci
+# Nina Carducci
+
+## What this project is for?
+School project 3 for my training as full-stack web developper with OpenClassrooms.
 
 ## Description
-Projet d'optimisation d'un site web pour les performances mais aussi le SEO. Le but de ce projet est de partir d'un code fonctionnel mais non optimisé, contenant des erreurs et de les corriger. Le premier commit sera la version tel que fournis par OpenClassrooms. 
+Project for optimizing a website for performance, SEO, and accessibility. The aim of this project is to start with a functional but unoptimized code, containing errors, and to correct them. The initial commit will be the version as provided by OpenClassrooms.
 
-## Langage utilisé
-Ce projet est à base de JS et HTML.
+## Technologies
+Javascript
+HTML
+CSS
 
-## Lien hébergement git hub
+## Hosted result of project
 https://dosylia.github.io/NinaCarducci/
+
+## How to Contribute
+Contact me on my portfolio : https://www.dosylia.com/
+
